@@ -1,0 +1,6 @@
+
+# Ігнорувати всі .txt файли, крім plans.txt
+*.txt
+!plans.txt
+
+shopping_list.txt
